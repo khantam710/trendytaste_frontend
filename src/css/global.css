@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif !important;
+    margin:0;
+}
+.nav-link {
+    color: rgb(255, 128, 0) !important;
+    font-size: 25px !important;
+}
+.navbar-brand {
+    color: #F4781D !important;
+    font-size: 30px !important;
+}
+.navbar {
+    font-family: 'Lobster', cursive !important;
+}
+
+.bg{
+    background: rgb(0, 102, 167) !important;
+}
+h1{
+    font-size: 20px !important;
+}
+.headingSize20 {
+    font-size: 20px !important;
+  }
+.custom-btn{
+    background-color: #F4781D !important;
+    color: white !important;
+    border: none !important;
+}
+/* select{
+    box-shadow: none !important;
+    border-color: black !important;
+    width: 50%;
+} */
+
+select {
+    border-color: #F4781D !important;
+    box-shadow: none !important;
+    /* border-radius: 0.25rem; */
+}
+
+.modal-body p{
+    color: rgb(76, 76, 76) !important;
+}
+.alert-danger{
+    color: #842029;
+    background-color: #f8d7da;
+    border-color: #f5c2c7;
+}
+
+.size{
+    background-color: rgba(184, 184, 184, 0.496);
+    text-transform: uppercase;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.bg-login{
+    background: url("../images/pizza-bg.jpg");
+    background-size: cover;
+    overflow: hidden;
+}
+
